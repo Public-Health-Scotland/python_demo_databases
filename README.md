@@ -11,7 +11,7 @@ Clone this repo in order to have the required files in your VSCode environment.
 
 If you have never used VS Code or Positron, check the link in the References section for instructions on how to set it up. You can install extensions for your IDE (VS Code or Positron). These are useful because they improve the development experience.
 
-# Prepare your Python environemnt (Python 3.12.8) (for other Python versions check reference link)
+# Prepare your Python environemnt (Python 3.13.8) (for other Python versions check reference link)
 
 1.  Create your environment (only the first time you create the project). To create an environment called .oenv, run:
 
