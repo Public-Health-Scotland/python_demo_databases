@@ -77,7 +77,7 @@ chmod 600 .env
 python demo_oracle.py
 ```
 
-The script my_db.py contains a Python class which facilitates the connection to Oracle and retrieves data in a pandas dataframe. Call my_oracle_object.query_to_df and set an sql statement in the sql argument to get a pandas dataframe.
+The script my_oracle.py contains a Python class which facilitates the connection to Oracle and retrieves data in a pandas dataframe. Call my_oracle_object.query_to_df and set an sql statement in the sql argument to get a pandas dataframe.
 
 9.  Run a demo python script through the terminal for a quick test of pulling data from PostgreSQL. It will work if you set connection to PostgreSQL (you will see a table in terminal):
 
